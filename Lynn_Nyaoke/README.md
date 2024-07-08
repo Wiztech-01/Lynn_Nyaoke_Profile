@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lynn Nyaoke</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate Software Engineer from Kenya</h3>
+<h3 align="center">----------------------------</h3>
 
 - 🔭 I’m currently working on **My personal Portfolio**
 
@@ -11,11 +12,17 @@
 
 - 📝 I regularly run an online jewelry & sunnies store [lynn_adornets](https://www.instagram.com/_lynn_adornets?igsh=MWp6dGhja2pucG94bQ==)
 
+<a href="https://www.github.com/Wiztech-01" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Wiztech-01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/LynnNyaoke" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wiztech-01&label=Profile%20views&color=0e75b6&style=flat" alt="Wiztech-01" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/versewrld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="versewrld" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/isaac-liplangat0637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac-liplangat0637" height="30" width="40" /></a>
-<a href="https://kaggle.com/isaac__kiplangat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="isaac__kiplangat" height="30" width="40" /></a>
+<a href="https://www.twitter.com/LynnNyaoke" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="versewrld" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lynn-nyaoke-058b43216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lynn-nyaoke-058b43216" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/isaac__kiplangat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="isaac__kiplangat" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
