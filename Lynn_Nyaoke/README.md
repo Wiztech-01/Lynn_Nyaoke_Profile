@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lynn Nyaoke</h1>
+
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 <h3 align="center">----------------------------</h3>
 
@@ -46,7 +47,7 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 <p align="centre">
   <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/evancherry">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a><br>
+  </a> <br>
 </p>
 
 <b>My GitHub Stats</b>
