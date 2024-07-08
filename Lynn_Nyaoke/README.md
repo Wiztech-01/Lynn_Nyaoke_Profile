@@ -36,13 +36,27 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 
 ### Badges
 
+<h3 align="centre">💻 Tech Stack:</h3>
+
+![Semantic UI](https://img.shields.io/badge/Semantic_UI-%234ABDB2?style=for-the-badge&logo=semantic-ui&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Thunderclient](https://img.shields.io/badge/Thunderclient-%23000000.svg?style=for-the-badge&logo=thunderclient&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-%231674B1.svg?style=for-the-badge&logo=pytest&logoColor=white)
+
+<br>
+
+<h3 align="centre">📖 Support:</h3>
+
+<p align="centre">
+  <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/evancherry">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Wiztech-01"><img src="https://github-readme-stats.vercel.app/api?username=Wiztech-01&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Wiztech-01's GitHub stats" /></a>
 
 <a href="http://www.github.com/Wiztech-01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wiztech-01&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Wiztech-01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wiztech-01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/Wiztech-01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wiztech-01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <a href="https://github.com/Wiztech-01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiztech-01&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
