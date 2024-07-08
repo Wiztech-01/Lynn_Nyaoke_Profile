@@ -36,10 +36,9 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 
 ### Badges
 
-<h3 align="centre">💻 Tech Stack:</h3>
+<h3 align="left">💻 Tech Stack:</h3>
 
 ![Semantic UI](https://img.shields.io/badge/Semantic_UI-%234ABDB2?style=for-the-badge&logo=semantic-ui&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Thunderclient](https://img.shields.io/badge/Thunderclient-%23000000.svg?style=for-the-badge&logo=thunderclient&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-%231674B1.svg?style=for-the-badge&logo=pytest&logoColor=white)
-
 <br>
 
 <h3 align="centre">📖 Support:</h3>
@@ -47,7 +46,7 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 <p align="centre">
   <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/evancherry">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
+  </a><br>
 </p>
 
 <b>My GitHub Stats</b>
